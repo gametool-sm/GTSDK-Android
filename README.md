@@ -29,4 +29,5 @@
 4、getIdentifier 文件夹下的 aar 使用 getIdentifier 方法获取资源，未使用 R.id、R.layout 等方式获取资源，有需求的可以使用。
 
 官方接入文档：https://docs.gametool.com/detail/1?p=2&v=1
+
 示例Demo：https://github.com/gametool-sm/GameToolDemo-Android
